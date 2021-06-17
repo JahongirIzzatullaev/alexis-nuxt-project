@@ -1,0 +1,71 @@
+{
+  "AboutOne": {
+    "description": "Auto imported from components/AboutOne.vue"
+  },
+  "AwardsAchieved": {
+    "description": "Auto imported from components/AwardsAchieved.vue"
+  },
+  "Blockquote": {
+    "description": "Auto imported from components/Blockquote.vue"
+  },
+  "BlogDetailsContent": {
+    "description": "Auto imported from components/BlogDetailsContent.vue"
+  },
+  "BlogGridWrapper": {
+    "description": "Auto imported from components/BlogGridWrapper.vue"
+  },
+  "CommentForm": {
+    "description": "Auto imported from components/CommentForm.vue"
+  },
+  "CommentList": {
+    "description": "Auto imported from components/CommentList.vue"
+  },
+  "ContactForm": {
+    "description": "Auto imported from components/ContactForm.vue"
+  },
+  "ContactWrapper": {
+    "description": "Auto imported from components/ContactWrapper.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "GalleryOne": {
+    "description": "Auto imported from components/GalleryOne.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Hero": {
+    "description": "Auto imported from components/Hero.vue"
+  },
+  "MobileNavigation": {
+    "description": "Auto imported from components/MobileNavigation.vue"
+  },
+  "Navigation": {
+    "description": "Auto imported from components/Navigation.vue"
+  },
+  "OffCanvasMobileMenu": {
+    "description": "Auto imported from components/OffCanvasMobileMenu.vue"
+  },
+  "OurClient": {
+    "description": "Auto imported from components/OurClient.vue"
+  },
+  "PageTitle": {
+    "description": "Auto imported from components/PageTitle.vue"
+  },
+  "PortfolioDetailsContent": {
+    "description": "Auto imported from components/PortfolioDetailsContent.vue"
+  },
+  "PortfolioFilterWrapper": {
+    "description": "Auto imported from components/PortfolioFilterWrapper.vue"
+  },
+  "SearchPopup": {
+    "description": "Auto imported from components/SearchPopup.vue"
+  },
+  "ServiceArea": {
+    "description": "Auto imported from components/ServiceArea.vue"
+  },
+  "TeamArea": {
+    "description": "Auto imported from components/TeamArea.vue"
+  }
+}

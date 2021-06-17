@@ -1,0 +1,46 @@
+
+// google fonts
+@import url(https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,700,|Libre+Baskerville:400,400i,700);
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+// icon fonts css
+@import "../css/icofont.css";
+
+
+// Base
+@import "common/variables";
+@import "common/mixins";
+
+// Typography
+@import "common/typography";
+
+// Common Styles
+@import "components/common";
+
+// Header
+@import "header/header";
+@import "header/mobile-menu-toggle";
+@import "header/sidebar-mobile-menu";
+@import "header/search";
+
+// Banner Styles
+@import "components/banner";
+
+// Components
+@import "components/portfolio";
+@import "components/about";
+@import "components/team";
+@import "components/brand-logo";
+@import "components/form";
+@import "components/intro";
+
+
+
+// Blog
+@import "components/blog";
+
+// Contact
+@import "components/contact";
+
+// Footer
+@import "footer/footer";

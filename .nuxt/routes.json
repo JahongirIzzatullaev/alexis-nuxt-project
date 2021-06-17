@@ -1,0 +1,51 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\My Web Sites\\\\free templates\\\\vue\\\\alexisvuenuxtjs-10\\\\alexisvuenuxtjs-10\\\\alexis\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_1ac60114"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "D:\\\\My Web Sites\\\\free templates\\\\vue\\\\alexisvuenuxtjs-10\\\\alexisvuenuxtjs-10\\\\alexis\\\\pages\\\\blog.vue",
+    "chunkName": "pages/blog",
+    "_name": "_29ac696e"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "D:\\\\My Web Sites\\\\free templates\\\\vue\\\\alexisvuenuxtjs-10\\\\alexisvuenuxtjs-10\\\\alexis\\\\pages\\\\blog-details.vue",
+    "chunkName": "pages/blog-details",
+    "_name": "_1262c584"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "D:\\\\My Web Sites\\\\free templates\\\\vue\\\\alexisvuenuxtjs-10\\\\alexisvuenuxtjs-10\\\\alexis\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_7c50636e"
+  },
+  {
+    "name": "portfolio",
+    "path": "/portfolio",
+    "component": "D:\\\\My Web Sites\\\\free templates\\\\vue\\\\alexisvuenuxtjs-10\\\\alexisvuenuxtjs-10\\\\alexis\\\\pages\\\\portfolio.vue",
+    "chunkName": "pages/portfolio",
+    "_name": "_c795899e"
+  },
+  {
+    "name": "portfolio-details",
+    "path": "/portfolio-details",
+    "component": "D:\\\\My Web Sites\\\\free templates\\\\vue\\\\alexisvuenuxtjs-10\\\\alexisvuenuxtjs-10\\\\alexis\\\\pages\\\\portfolio-details.vue",
+    "chunkName": "pages/portfolio-details",
+    "_name": "_76ffa526"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\My Web Sites\\\\free templates\\\\vue\\\\alexisvuenuxtjs-10\\\\alexisvuenuxtjs-10\\\\alexis\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1254da3b"
+  }
+]

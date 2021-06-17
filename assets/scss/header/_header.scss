@@ -1,0 +1,103 @@
+/*
+-----------------------------------------------------------------------
+  Header CSS
+-----------------------------------------------------------------------
+*/
+
+.header-area {
+    padding: 50px 0;
+
+    @media #{$lg-device} {
+        .container {
+            max-width: none;
+            width: 100%;
+        }
+    }
+
+    @media #{$md-device} {
+        padding: 53px 0;
+    }
+
+    @media #{$sm-device} {
+        padding: 25px 0;
+    }
+    // Header Default
+    &.header-default {
+        background-color: $white;
+        padding: 40px 0 35px;
+        position: relative;
+        z-index: 999;
+        @media #{$md-device, $sm-device} {
+            padding: 20px 0 20px;
+        }
+        .container-fluid {
+            padding-left: 60px;
+            padding-right: 60px;
+            @media #{$xxl-device, $lg-device, $xs-device} {
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+        }
+
+        .header-search {
+            width: 100px;
+            text-align: right;
+            // Responsive
+            @media #{$sm-device} {
+                width: auto;
+            }
+            &-toggle {
+                color: $heading-color;
+                font-size: 20px;
+                line-height: 1;
+                background-color: transparent;
+                border: none;
+                &:hover {
+                    color: $black;
+                }
+            }
+        }
+
+        .header-logo-area {
+            max-width: none;
+            @media #{$md-device} {
+                max-width: 140px;
+            }
+            @media #{$sm-device} {
+                max-width: 110px;
+            }
+        }
+
+        .header-action-area {
+            @media #{$sm-device} {
+                margin-top: 2px;
+                position: relative;
+            }
+        }
+    }
+}
+
+
+/*-- Sticky Header --*/
+.header-area {
+    &.is-sticky {
+        position: fixed;
+        z-index: 99;
+        top: 0;
+        left: 0;
+        width: 100%;
+        animation: fadeInDown .5s ease-in-out;
+    }
+}
+
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translate3d(0, -100%, 0);
+    }
+  
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+}
